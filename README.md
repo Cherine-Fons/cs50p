@@ -18,3 +18,4 @@ This repository serves as a record of my foundational training in Python, as par
 All code is written from scratch and will be regularly updated as I move through the course.
 
 — Cherine Fons
+
