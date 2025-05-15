@@ -1,4 +1,4 @@
-## variables (02_variables)
+## functions (01_functions)
 
 This folder will contain scripts and notes for:
 

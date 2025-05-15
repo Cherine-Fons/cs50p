@@ -1,4 +1,4 @@
-## variables (02_variables)
+## conditionals (03_conditionals)
 
 This folder will contain scripts and notes for:
 

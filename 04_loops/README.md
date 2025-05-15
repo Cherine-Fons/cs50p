@@ -1,4 +1,4 @@
-## variables (02_variables)
+## loops (04_loops)
 
 This folder will contain scripts and notes for:
 
