@@ -1,3 +1,10 @@
+## Table of Contents
+
+1. [Functions](./01_functions/)
+2. [Variables](./02_variables/)
+3. [Conditionals](./03_conditionals/)
+4. [Loops](./04_loops/)
+5. [Functions and Return Values](./05_functions_return/)
 # cs50p
 Harvard CS50P: Introduction to Python Programming
 # Harvard CS50P – Introduction to Programming with Python
