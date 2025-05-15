@@ -7,11 +7,11 @@
 5. [Functions and Return Values](./05_functions_return/)
 # cs50p
 Harvard CS50P: Introduction to Python Programming
-# Harvard CS50P – Introduction to Programming with Python
+### Coursework Repository — Harvard CS50P (Python)
+
+## Purpose
 
 This repository documents my progress through Harvard's CS50P course on Python programming. Each week contains exercises, scripts, and reflections as I build proficiency in core programming concepts.
-
-## Weekly Structure
 
 - `week1/`: Basic syntax, print statements, input/output
 - `week2/`: Conditional logic, loops
